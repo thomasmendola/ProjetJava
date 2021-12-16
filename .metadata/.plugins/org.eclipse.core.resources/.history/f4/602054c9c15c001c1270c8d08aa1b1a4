@@ -1,0 +1,18 @@
+package fr.dawan.syntaxe_de_base;
+
+/*
+ * Zone memoire qui va contenir une valeur typée 
+ * Il existe huit types de base en Java : 
+ * 	- des types entier : byte(1o),  short(2o), int(4o), long(8o)
+ * 
+ * 
+ */
+public class Variables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}

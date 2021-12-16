@@ -1,0 +1,11 @@
+package fr.dawan.syntaxe_de_base.Transtypage;
+
+public class LectureDunEntier {
+
+	public static void main(String[] args) {
+		
+		int n = 0;
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package fr.dawan.syntaxe_de_base.variables;
+
+public class ConstanteReglesDeNommage {
+
+	public static void main(String[] args) {
+		
+		//Les constantes doivent être ecrites en majuscules, pour les différencier des autres variables
+		//final : veut dire que le contenu de la variable ne va pas changer
+		final int VIES_MAX = 15;
+		VIES_MAX = 18;
+		
+		System.out.println("Nombre de vie max " + VIES_MAX);
+
+	}
+
+}

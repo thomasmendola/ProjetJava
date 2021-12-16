@@ -1,0 +1,12 @@
+package fr.dawan.syntaxe_de_base.variables;
+
+public class ConstanteReglesDeNommage {
+
+	public static void main(String[] args) {
+		
+		//Les constantes doivent 
+		int VIES_MAX = 15;
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+public class NextLineTest {
+
+	public static void main(String[] args) {
+		/*
+		 * La methode NextLine permet de lire une ligne de texte jusqu'au prochain retour à la ligne
+		 */
+	}
+
+}

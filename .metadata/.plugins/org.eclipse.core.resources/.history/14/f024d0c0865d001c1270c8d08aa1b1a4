@@ -1,0 +1,12 @@
+package fr.dawan.conditions;
+
+public class BlocIfElse {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+		
+	}
+
+}

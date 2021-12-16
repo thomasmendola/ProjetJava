@@ -1,0 +1,16 @@
+package fr.dawan.conditions;
+
+import java.util.Scanner;
+
+public class BlocIfElse {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+		int nbre = 0;
+		
+		
+	}
+
+}

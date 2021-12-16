@@ -1,0 +1,17 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+import java.util.Scanner;
+
+
+public class LectureDunChaineDeCaractereOuDunDecimal {
+
+	
+	Scanner clavierDouble = new Scanner(System.in);
+	Scanner clavierChaine = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		
+		double var = 0.0;
+	}
+
+}

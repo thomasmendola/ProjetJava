@@ -1,0 +1,11 @@
+package fr.dawan.exercices;
+
+public class ProduitDeuxNombres {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+	}
+
+}

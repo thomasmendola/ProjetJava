@@ -1,0 +1,13 @@
+package fr.dawan.conditions;
+
+public class OperateursLogiques {
+
+	public static void main(String[] args) {
+		/*
+		 * Les operateurs logiques s'appliquent sur des opérandes booléens et produisent un resultat qui 
+		 * est egalement booléen
+		 * 
+		 */
+	}
+
+}

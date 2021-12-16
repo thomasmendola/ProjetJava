@@ -1,0 +1,61 @@
+package fr.dawan.conditions;
+
+import java.util.Scanner;
+
+public class InstructionSwitch {
+
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in);
+		
+		int jours = 7;
+		
+		//Founir les données d'entrée
+		System.out.println("Saisir le numero du jour: ");
+		jours = clavier.nextInt();
+		
+		/*
+		 * Première exemple utilisation du bloc ELSE-IF
+		 */
+//		if(jours == 1) {
+//			System.out.println("Lundi");
+//		} else if(jours == 2) {
+//			System.out.println("Mardi");
+//		}
+//		else if(jours == 3) {
+//			System.out.println("Mercredi");
+//		}
+//		else if(jours == 4) {
+//			System.out.println("Jeudi");
+//		}
+//		else if(jours == 5) {
+//			System.out.println("vendredi");
+//		}
+//		else if(jours == 6) {
+//			System.out.println("Samedi");
+//		} 
+//		else if(jours == 7) {
+//			System.out.println("Samedi");
+//		} 
+//		else {
+//			System.out.println("Entrée invalide : Veuillez saisir le numéro de jours entre 1 et 7.");
+//		}
+		
+		/*
+		 * 2ème exemple : Instruction Switch
+		 * Switch : variante du if-else-if-else
+		 * Pour une question de rapidité et de performance, le switch est préferé au bloc else-if
+		 */
+		
+
+		switch (jours) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+		
+	}
+
+}

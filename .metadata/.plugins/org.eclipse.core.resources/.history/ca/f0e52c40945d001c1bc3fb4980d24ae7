@@ -1,0 +1,13 @@
+package fr.dawan.boucles;
+
+public class BoucleFor {
+	/*
+	 * Le role des boucles est repeter un certain nombre de fois les mêmes opérations
+	 * Les boucles s'executent tant qu'une condition est remplie
+	 * 
+	 */
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+package fr.dawan.introduction;
+
+public class HelloWorld {
+	
+	/**
+	 * Le point d'entrée du programme
+	 * @param args
+	 */
+	public static void main(String[] args) {	
+		
+		//Commentaire mono-ligne
+		System.out.println("First Java Application");
+		
+		
+		/*
+		 * Commentaire 
+		 * multiligne
+		 */
+	}
+
+}
+
+
+

@@ -1,0 +1,10 @@
+package fr.dawan.syntaxe_de_base.util;
+
+public class ClassMath {
+
+	public static void main(String[] args) {
+		Math math = new Math();
+
+	}
+
+}

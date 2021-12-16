@@ -1,0 +1,21 @@
+package fr.dawan.conditions;
+
+public class OperateursLogiques {
+
+	public static void main(String[] args) {
+		/*
+		 * Les operateurs logiques s'appliquent sur des opérandes booléens et produisent un resultat qui 
+		 * est egalement booléen
+		 * 
+		 * Java comporte trois opérateurs logiques, dont une unaire et deux binaire
+		 * 
+		 * Table logique
+		 * A	B
+		 * v	v
+		 * v	f
+		 * f	v
+		 * f	f
+		 */
+	}
+
+}

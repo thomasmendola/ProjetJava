@@ -1,0 +1,11 @@
+package fr.dawan.syntaxe_de_base.util;
+
+public class ClassMath {
+
+	public static void main(String[] args) {
+		
+		System.out.println("La racine carée de 25 est " : Math.sqrt(25));
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package fr.dawan.conditions;
+
+import java.util.Scanner;
+
+public class OperateursLogiques {
+
+	public static void main(String[] args) {
+		/*
+		 * Les operateurs logiques s'appliquent sur des opérandes booléens et produisent un resultat qui 
+		 * est egalement booléen
+		 * 
+		 * Java comporte trois opérateurs logiques, dont une unaire et deux binaire
+		 * 
+		 * A&&B	est vraie (true) si A est vraie et B est vraie sinon c'est faux
+		 * A||B est vraie si un des operandes est vraie sinon faux
+		 * !A   ==> A est vraie alors !A est faux
+		 * 
+		 * 
+		 * Table logique		
+		 * A	B				A&&B			A||B		!A 				
+		 * v	v				 v                v          f
+		 * v	f				 f                v          f
+		 * f	v                f                v          v
+		 * f	f                f                f          v
+		 */
+		
+		Scanner clavier = new Scanner(System.in);
+		
+	}
+
+}

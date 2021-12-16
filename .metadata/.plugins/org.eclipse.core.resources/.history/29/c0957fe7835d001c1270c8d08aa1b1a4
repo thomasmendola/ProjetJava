@@ -1,0 +1,10 @@
+package fr.dawan.exercices;
+
+public class PermutDeuxNombres {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

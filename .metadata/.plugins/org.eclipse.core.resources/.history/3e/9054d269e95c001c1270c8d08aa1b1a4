@@ -1,0 +1,17 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+import java.util.Scanner;
+
+public class NextLineTest {
+
+	static Scanner clavier = new Scanner(System.in);
+	public static void main(String[] args) {
+		/*
+		 * La methode NextLine permet de lire une ligne de texte jusqu'au prochain retour à la ligne
+		 * 
+		 */
+		
+		int n = 0;
+	}
+
+}

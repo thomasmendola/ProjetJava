@@ -1,0 +1,9 @@
+package fr.dawan.boucles;
+
+public class BoucleFor {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

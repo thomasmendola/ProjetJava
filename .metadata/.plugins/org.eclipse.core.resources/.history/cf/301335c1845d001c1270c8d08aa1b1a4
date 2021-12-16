@@ -1,0 +1,18 @@
+package fr.dawan.exercices;
+
+import java.util.Scanner;
+
+public class SommeMoyennePourcentage {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		double mat1, mat2, mat3, mat4, mat5;
+		
+		//Fournir les données
+		System.out.println("Saisir la première note : ");
+		mat1 = clavier.nextDouble();
+		
+	}
+
+}

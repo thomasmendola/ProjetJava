@@ -1,0 +1,16 @@
+package fr.dawan.boucles;
+
+import java.util.Scanner;
+
+public class BoucleDoWhile {
+
+	/*
+	 * DO-WHILE : 
+	 * Permet de repeter des instructions tant qu'une condition n'est pas verifiée. 
+	 * Comme la condition est testée à la fin, on est sûre de passer dans le bloc d'instruction au moins une fois
+	 */
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in7);
+	}
+
+}

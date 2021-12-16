@@ -1,0 +1,16 @@
+package fr.dawan.syntaxe_de_base.operateurs;
+
+public class OperateurDincrementationEtDecrementation {
+
+	public static void main(String[] args) {
+		
+	/*
+	 * Incrementation et decrementation ++, --
+	 */
+	
+	int c = 10;
+	int c = 10 + 1;
+
+	}
+
+}

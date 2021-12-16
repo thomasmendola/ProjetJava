@@ -1,0 +1,13 @@
+package fr.dawan.syntaxe_de_base.Transtypage;
+
+public class ConcatenationVariables {
+
+	public static void main(String[] args) {
+		
+		int n = 15;
+		
+		//Ex: Afficher le Le contenu de n est : 15
+		System.out.println("Le contenu de n est : " + n);
+	}
+
+}

@@ -1,0 +1,16 @@
+package fr.dawan.exercices;
+
+import java.util.Scanner;
+
+public class ProduitDeuxNombres {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+		System.out.println("Entrer le premier nombre: ");
+		int nbr1 = clavier.nextInt();
+		
+	}
+
+}
